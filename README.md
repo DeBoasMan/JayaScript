@@ -3,6 +3,7 @@ Uma linguagem escrita em batch de extremo alto nível feita para o gênio da com
 Arquivos para download podem ser encontrados em [/Binaries](https://github.com/JayaFan/JayaScript/tree/main/Binaries)
 ![](jayawin.jpg)
 # Changelog
+## JayaScript Version: 1.1
 **- Added sexo command**
 <br>
 **- Added drogas command**
