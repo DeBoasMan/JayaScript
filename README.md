@@ -1,5 +1,6 @@
 # JayaScript
 Uma linguagem escrita em batch de extremo alto nível feita para o gênio da computação Jaya Asteca, não temos documentação ou esse tipo de bloat, somente a linguagem
+<br>
 Arquivos para download podem ser encontrados em [/Binaries](https://github.com/JayaFan/JayaScript/tree/main/Binaries)
 ![](jayawin.jpg)
 # Changelog
